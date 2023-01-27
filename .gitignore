@@ -1,5 +1,9 @@
 .DS_Store
 
-.StatisticalShapeModelofFaces/frontalimages_spatiallynormalized_part[*]
 
-.StatisticalShapeModelofFaces/frontalshapes_manuallyannotated_46points
+StatisticalShapeModelofFaces/frontalshapes_manuallyannotated_46points/*
+
+StatisticalShapeModelofFaces/frontalimages_spatiallynormalized_part1/*
+
+StatisticalShapeModelofFaces/frontalimages_spatiallynormalized_part2/*
+
